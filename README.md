@@ -16,7 +16,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary 
 
-[Click here for the](election_analysis.txt)
+[Click here for the election analysis](election_analysis.txt)
 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election. 
