@@ -15,7 +15,8 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.9.0, Visual Studio Code, 1.49.3
 
 ## Summary 
- ***Link to election_analysis.txt
+
+[Click here for the](election_analysis.txt)
 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election. 
