@@ -44,7 +44,9 @@ Of the three counties, Denver is by far the most represented in terms of sheer n
 ## Challenge Summary
 Based on the findings after running and analyzing the output of our script, I am confident in proposing to the Election Commission that they utilize this script, albiet, with some minor alterations, for future election analyses. This is under the assumption that future audits exectued by the Election Commission would collect and store their data the same as they did in the election_results.csv file.
 
-"# Add a variable to load a file from a path."
-"file_to_load = os.path.join("../Resources/election_results.csv")"
-"# Add a variable to save the file to a path."
-"file_to_save = os.path.join("analysis", "election_analysis.txt")"
+```
+# Add a variable to load a file from a path.
+file_to_load = os.path.join("../Resources/election_results.csv")
+# Add a variable to save the file to a path.
+file_to_save = os.path.join("analysis", "election_analysis.txt")
+```
